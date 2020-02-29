@@ -1,0 +1,16 @@
+Click
+Flask
+itsdangerous
+Jinja2
+MarkupSafe
+numpy
+pandas
+pymongo
+python-dateutil
+pytz
+six
+Werkzeug
+# sentry-sdk
+sentry-sdk[flask]==0.10.2
+
+
